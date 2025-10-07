@@ -4,7 +4,7 @@ Abstract
 ============
 A class of functions is proposed to study the ruler and compass construction of regular polygons. By constructing isosceles triangles, the regular pentagon can be realized with compass and unmarked  straightedge. Subsequently, a class of functions, referred to as \textit{isosceles trigonometric functions}, is introduced and their properties are analyzed. It is found that a \textit{isosceles trigonometric function} is related to the golden ratio. Utilizing this class of functions and isosceles triangles, the construction of the regular 17-gon is achieved.The results show that \textit{isosceles trigonometric functions} perform well in the construction of regular polygons.
 
-Usage Instructions
+Conclusion
 ============
 
 In conclusion, this study investigates the compass-and-straightedge constructions of regular polygons and yields several results. The main conclusions are as follows. 
@@ -50,9 +50,24 @@ where $\theta_k = \frac{2\pi k}{n}$ and  $n \in \mathbb{Z}$.
 
 These results highlight the significance of regular polygons and isosceles trigonometric functions, and provide useful tools for further studies in geometry. 
 
+The complete article
+============
 
 <p align="center">
     <img src="images/manuscript_v2_01.png"  width="870"/>
+    <img src="images/manuscript_v2_02.png"  width="870"/>
+    <img src="images/manuscript_v2_03.png"  width="870"/>
+    <img src="images/manuscript_v2_04.png"  width="870"/>
+    <img src="images/manuscript_v2_05.png"  width="870"/>
+    <img src="images/manuscript_v2_06.png"  width="870"/>
+    <img src="images/manuscript_v2_07.png"  width="870"/>
+    <img src="images/manuscript_v2_08.png"  width="870"/>
+    <img src="images/manuscript_v2_09.png"  width="870"/>
+    <img src="images/manuscript_v2_10.png"  width="870"/>
+    <img src="images/manuscript_v2_11.png"  width="870"/>
+    <img src="images/manuscript_v2_12.png"  width="870"/>
+    <img src="images/manuscript_v2_13.png"  width="870"/>
+    <img src="images/manuscript_v2_14.png"  width="870"/>
 </p>
 
 
