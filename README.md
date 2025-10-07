@@ -52,7 +52,7 @@ These results highlight the significance of regular polygons and isosceles trigo
 
 
 <p align="center">
-    <img src="manuscript_v2_01"  width="500"/>
+    <img src="./images/manuscript_v2_01"  width="500"/>
 </p>
 <p align="center">
     <i>An example of software parameters</i>
