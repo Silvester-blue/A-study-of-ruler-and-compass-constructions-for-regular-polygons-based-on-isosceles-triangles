@@ -4,6 +4,10 @@ Abstract
 ============
 A class of functions is proposed to study the ruler and compass construction of regular polygons. By constructing isosceles triangles, the regular pentagon can be realized with compass and unmarked  straightedge. Subsequently, a class of functions, referred to as isosceles trigonometric functions, is introduced and their properties are analyzed. It is found that a isosceles trigonometric function is related to the golden ratio. Utilizing this class of functions and isosceles triangles, the construction of the regular 17-gon is achieved.The results show that isosceles trigonometric functions perform well in the construction of regular polygons.
 
+Keywords
+============
+regular 17-gon, ruler and compass construction, isosceles triangle
+
 Conclusion
 ============
 
