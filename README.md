@@ -24,21 +24,27 @@ this formula does not have the factor 2, so it is more convenient when transform
 
 
 Third, by constructing nested isosceles triangles and using the isosceles trigonometric functions, the ruler and compass construction of the regular 17-gon has been successfully achieved. It is obtained that 
+
 $$
 csi(\frac{4\pi}{17})=\frac{1}{8}(-1+\sqrt{17}+\sqrt{34-2\sqrt{17}})+\frac{1}{4}\sqrt{{17+3\sqrt{17}-2\sqrt{34+2\sqrt{17}}-\sqrt{34-2\sqrt{17}}}},
 $$
+
 and
+
 $$
 sni(\frac{\pi}{17})=\frac{1}{8}(-1+\sqrt{17}+\sqrt{34-2\sqrt{17}})-\frac{1}{4}\sqrt{{17+3\sqrt{17}-2\sqrt{34+2\sqrt{17}}-\sqrt{34-2\sqrt{17}}}}.
 $$
+
 A regular 17-gon can be constructed with a straightedge and compass from $csi(\frac{4\pi}{17})$ or $sni(\frac{\pi}{17})$.
 
 
 Finally,the Cauchy-Schwarz inequality of isosceles trigonometric functions, isosceles Euler's formula and some special definite integrals are discussed. We obtained some concise formulas, making it easier for us to directly apply these formulas in subsequent research. A set of formulas are as follows
+
 $$
 \sum_{k=0}^{n-1} csi(4\theta_k) = \sum_{k=0}^{n-1} sni(4\theta_k) =0, \quad
 \sum_{k=0}^{n-1} sni (2\theta_k) csi (2\theta_k) = 0,
 $$
+
 where $\theta_k = \frac{2\pi k}{n}$ and  $n \in \mathbb{Z}$.
 
 
