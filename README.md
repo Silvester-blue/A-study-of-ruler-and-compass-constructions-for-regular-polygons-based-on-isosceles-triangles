@@ -17,7 +17,7 @@ In conclusion, this study investigates the compass-and-straightedge construction
 First, the compass-and-straightedge constructions of the regular pentagon and the regular 17-gon are obtained  by constructing nested isosceles triangles. It's found that using isosceles triangles to solve this problem is visual and convenient. 
 
 
-Second, a class of \textit{isosceles trigonometric functions} is defined and it is found that an isosceles trigonometric function is related to the golden ratio, that is, $sni \frac{\pi}{5} =\frac{\sqrt{5}-1}{2}$. Furthermore, some formulas of isosceles trigonometric functions are more convenient than trigonometric functions. We take the following formula as an example,
+Second, a class of isosceles trigonometric functions is defined and it is found that an isosceles trigonometric function is related to the golden ratio, that is, $sni \frac{\pi}{5} =\frac{\sqrt{5}-1}{2}$. Furthermore, some formulas of isosceles trigonometric functions are more convenient than trigonometric functions. We take the following formula as an example,
 
 $$
 csi\alpha+csi\beta=csi\frac{\alpha+\beta}{2}csi\frac{\alpha-\beta}{2}.
