@@ -14,9 +14,11 @@ First, the compass-and-straightedge constructions of the regular pentagon and th
 
 
 Second, a class of \textit{isosceles trigonometric functions} is defined and it is found that an isosceles trigonometric function is related to the golden ratio, that is, $sni \frac{\pi}{5} =\frac{\sqrt{5}-1}{2}$. Furthermore, some formulas of isosceles trigonometric functions are more convenient than trigonometric functions. We take the following formula as an example,
+
 $$
 csi\alpha+csi\beta=csi\frac{\alpha+\beta}{2}csi\frac{\alpha-\beta}{2}.
 $$
+
 Compared to the trigonometric function formula $\cos \alpha + \cos \beta = 2 \cos\frac{\alpha + \beta}{2} \cos\frac{\alpha - \beta}{2}$,
 this formula does not have the factor 2, so it is more convenient when transforming from left to right or from right to left.
 
